@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hi,. i'm jae woo</h1>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%233C8455&icon=spring.svg&icon_color=%231C5839&title=Springboot&edge_flat=true)](https://hits.seeyoufarm.com)
+<a href="[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E5E5E5&title_bg=%233C8455&icon=spring.svg&icon_color=%231C5839&title=Springboot&edge_flat=false)](https://hits.seeyoufarm.com)"></a>
