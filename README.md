@@ -1,18 +1,24 @@
-### Hi there 👋
+<div align="center"><h3>:seedling:안녕하세요! 김재우입니다:seedling:</h3>
 
-<!--
-**kimjaewoo2233/kimjaewoo2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 
 
-Here are some ideas to get you started:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br>
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)<br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1>Hi,. i'm jae woo</h1>
-<a href="[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E5E5E5&title_bg=%233C8455&icon=spring.svg&icon_color=%231C5839&title=Springboot&edge_flat=false)](https://hits.seeyoufarm.com)"></a>
+
+ 프로젝트<br><br>
+   Html/css/js - https://github.com/kimjaewoo2233/ITblogFront<br>
+    JSP - https://github.com/kimjaewoo2233/Tourist_site
+    
+    
+ 학습하면서 클론코딩
+    JSP(Servlet) - https://github.com/kimjaewoo2233/JSP-todo-list
+    SpringBoot - https://github.com/kimjaewoo2233/FoodList
+    SpringBoot/Thymeleaf (JPA,security,Mysql) - https://github.com/kimjaewoo2233/spring-board-project
+    Spring/JSP (Mybatis,MariaDB) - https://github.com/kimjaewoo2233/JSP-Spring-todo-list
+    SpringBoot (JPA,MariaDB,security) - https://github.com/kimjaewoo2233/springboot-board-litst(학습중)
+    
+ </div>
