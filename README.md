@@ -19,6 +19,6 @@
     SpringBoot - https://github.com/kimjaewoo2233/FoodList<br>
     SpringBoot/Thymeleaf (JPA,security,Mysql) - https://github.com/kimjaewoo2233/spring-board-project<br>
     Spring/JSP (Mybatis,MariaDB) - https://github.com/kimjaewoo2233/JSP-Spring-todo-list<br>
-    SpringBoot (JPA,MariaDB,security) - https://github.com/kimjaewoo2233/springboot-board-litst(학습중)<br>
+    SpringBoot (JPA,MariaDB,security) (학습중) - https://github.com/kimjaewoo2233/springboot-board-litst<br>
     
  </div>
