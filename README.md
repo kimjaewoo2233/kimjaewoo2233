@@ -11,14 +11,14 @@
 
  프로젝트<br><br>
    Html/css/js - https://github.com/kimjaewoo2233/ITblogFront<br>
-    JSP - https://github.com/kimjaewoo2233/Tourist_site
+    JSP - https://github.com/kimjaewoo2233/Tourist_site<br>
     
     
- 학습하면서 클론코딩
-    JSP(Servlet) - https://github.com/kimjaewoo2233/JSP-todo-list
-    SpringBoot - https://github.com/kimjaewoo2233/FoodList
-    SpringBoot/Thymeleaf (JPA,security,Mysql) - https://github.com/kimjaewoo2233/spring-board-project
-    Spring/JSP (Mybatis,MariaDB) - https://github.com/kimjaewoo2233/JSP-Spring-todo-list
-    SpringBoot (JPA,MariaDB,security) - https://github.com/kimjaewoo2233/springboot-board-litst(학습중)
+ 학습하면서 클론코딩<br>
+    JSP(Servlet) - https://github.com/kimjaewoo2233/JSP-todo-list<br>
+    SpringBoot - https://github.com/kimjaewoo2233/FoodList<br>
+    SpringBoot/Thymeleaf (JPA,security,Mysql) - https://github.com/kimjaewoo2233/spring-board-project<br>
+    Spring/JSP (Mybatis,MariaDB) - https://github.com/kimjaewoo2233/JSP-Spring-todo-list<br>
+    SpringBoot (JPA,MariaDB,security) - https://github.com/kimjaewoo2233/springboot-board-litst(학습중)<br>
     
  </div>
