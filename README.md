@@ -1,6 +1,9 @@
+
 <div align="center"><h3>:seedling:안녕하세요! 김재우입니다:seedling:</h3>
 
 ## 
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=jaewookim&fontSize=90&fontColor=d6ace6)
+<br><br>
 ![Kimjaewoo GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjaewoo2233&show_icons=true&theme=radical)  
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjaewoo2233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
