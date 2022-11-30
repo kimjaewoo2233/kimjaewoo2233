@@ -19,6 +19,7 @@
  프로젝트<br><br>
    Html/css/js - https://github.com/kimjaewoo2233/ITblogFront<br>
     JSP - https://github.com/kimjaewoo2233/Tourist_site<br>
+    SpringBoot/JPA(JPQL)/JWT/SpringSecurity -https://github.com/kimjaewoo2233/movie-web-project-1(진행중)
     
     
  학습하면서 클론코딩<br>
