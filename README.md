@@ -22,7 +22,7 @@
     SpringBoot/JPA(JPQL)/JWT/SpringSecurity -https://github.com/kimjaewoo2233/movie-web-project-1(진행중)
     
     
- 학습하면서 클론코딩<br>
+ 학습<br>
     JSP(Servlet) - https://github.com/kimjaewoo2233/JSP-todo-list<br>
     SpringBoot - https://github.com/kimjaewoo2233/FoodList<br>
     SpringBoot/Thymeleaf (JPA,security,Mysql) - https://github.com/kimjaewoo2233/spring-board-project<br>
