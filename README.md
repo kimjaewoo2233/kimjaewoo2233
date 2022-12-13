@@ -16,14 +16,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
 
 
- 프로젝트<br><br>
+ ## PROJECT
    Html/css/js - https://github.com/kimjaewoo2233/ITblogFront<br>
     JSP - https://github.com/kimjaewoo2233/Tourist_site<br>
     SpringBoot/JPA(JPQL)/JWT/SpringSecurity -https://github.com/kimjaewoo2233/movie-web-project-1         (진행중)
     SpringBoot/JPA/SpringSecurity/JQuery - https://github.com/kimjaewoo2233/companion-animal-tourism-info
     
     
- 학습<br>
+ ## PRACTICE
     JSP(Servlet) - https://github.com/kimjaewoo2233/JSP-todo-list<br>
     SpringBoot - https://github.com/kimjaewoo2233/FoodList<br>
     SpringBoot/Thymeleaf (JPA,security,Mysql) - https://github.com/kimjaewoo2233/spring-board-project<br>
