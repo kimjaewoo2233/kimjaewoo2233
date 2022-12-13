@@ -20,6 +20,7 @@
    Html/css/js - https://github.com/kimjaewoo2233/ITblogFront<br>
     JSP - https://github.com/kimjaewoo2233/Tourist_site<br>
     SpringBoot/JPA(JPQL)/JWT/SpringSecurity -https://github.com/kimjaewoo2233/movie-web-project-1(진행중)
+    SpringBoot/JPA/SpringSecurity/JQuery - https://github.com/kimjaewoo2233/companion-animal-tourism-info
     
     
  학습<br>
