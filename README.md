@@ -17,10 +17,10 @@
 
 
  ## PROJECT
-   Html/css/js - https://github.com/kimjaewoo2233/ITblogFront<br>
-    JSP - https://github.com/kimjaewoo2233/Tourist_site<br>
+   Html/css/js(간단 블로그) - https://github.com/kimjaewoo2233/ITblogFront<br>
+    JSP(춘천관광) - https://github.com/kimjaewoo2233/Tourist_site<br>
     SpringBoot/JPA(JPQL)/JWT/SpringSecurity(영화퀴즈사이트) -https://github.com/kimjaewoo2233/movie-web-project-1       
-    SpringBoot/JPA/SpringSecurity/JQuery - https://github.com/kimjaewoo2233/companion-animal-tourism-info
+    SpringBoot/JPA/SpringSecurity/JQuery(동물보호소) - https://github.com/kimjaewoo2233/companion-animal-tourism-info
     
     
  
@@ -30,7 +30,7 @@ JSP(Servlet) - https://github.com/kimjaewoo2233/JSP-todo-list<br>
 SpringBoot - https://github.com/kimjaewoo2233/FoodList<br>
 SpringBoot/Thymeleaf (JPA,security,Mysql) - https://github.com/kimjaewoo2233/spring-board-project<br>
 Spring/JSP (Mybatis,MariaDB) - https://github.com/kimjaewoo2233/JSP-Spring-todo-list<br>
-SpringBoot (JPA,MariaDB,security) (학습중) - https://github.com/kimjaewoo2233/springboot-board-litst<br>    
+SpringBoot (JPA,MariaDB,security)  - https://github.com/kimjaewoo2233/springboot-board-litst<br>    
  
 
 
