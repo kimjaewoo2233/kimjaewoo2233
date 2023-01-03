@@ -19,7 +19,7 @@
  ## PROJECT
    Html/css/js(간단 블로그) - https://github.com/kimjaewoo2233/ITblogFront<br>
     JSP(춘천관광) - https://github.com/kimjaewoo2233/Tourist_site<br>
-    SpringBoot/JPA(JPQL)/JWT/SpringSecurity(영화퀴즈사이트) - https://github.com/kimjaewoo2233/MOVIE-QUIZ-PROJECT 
+    SpringBoot/JPA(JPQL)/JWT/SpringSecurity(영화퀴즈사이트) - [https://github.com/kimjaewoo2233/MOVIE-QUIZ-PROJECT](https://github.com/kimjaewoo2233/movie-web-project) 
     SpringBoot/JPA/SpringSecurity/JQuery(동물보호소) - https://github.com/kimjaewoo2233/companion-animal-tourism-info<br>
     
     
