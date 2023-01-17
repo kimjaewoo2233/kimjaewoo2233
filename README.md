@@ -21,6 +21,7 @@
     JSP(춘천관광) - https://github.com/kimjaewoo2233/Tourist_site<br>
     SpringBoot/JPA(JPQL)/JWT/SpringSecurity(영화퀴즈사이트) - [https://github.com/kimjaewoo2233/MOVIE-QUIZ-PROJECT](https://github.com/kimjaewoo2233/movie-web-project) 
     SpringBoot/JPA/SpringSecurity/JQuery(동물보호소) - https://github.com/kimjaewoo2233/companion-animal-tourism-info<br>
+   (진행중)SpringBoot/SpringSecurity(JWT, Session)/SpringBatch/SpringDataJPA(Querydsl) -https://github.com/kimjaewoo2233/USER-MANAGEMENT-REPO <br>
     
     
  
