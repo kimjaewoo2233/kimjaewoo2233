@@ -23,17 +23,10 @@
     JSP(춘천관광) - https://github.com/kimjaewoo2233/Tourist_site<br>
     SpringBoot/JPA(JPQL)/JWT/SpringSecurity(영화퀴즈사이트) - [https://github.com/kimjaewoo2233/MOVIE-QUIZ-PROJECT](https://github.com/kimjaewoo2233/movie-web-project) 
     SpringBoot/JPA/SpringSecurity/JQuery(동물보호소) - https://github.com/kimjaewoo2233/companion-animal-tourism-info<br>
+ https://github.com/kimjaewoo2233/STUDY-GROUP-ACTIVITY(학습하며 만든 호텔예약프로젝트)<br>
    (진행중)SpringBoot/SpringSecurity(JWT, Session)/SpringBatch/SpringDataJPA(Querydsl) -https://github.com/kimjaewoo2233/USER-MANAGEMENT-REPO <br>
     
     
- 
-## PRACTICE
- 
-JSP(Servlet) - https://github.com/kimjaewoo2233/JSP-todo-list<br>
-SpringBoot - https://github.com/kimjaewoo2233/FoodList<br>
-SpringBoot/Thymeleaf (JPA,security,Mysql) - https://github.com/kimjaewoo2233/spring-board-project<br>
-Spring/JSP (Mybatis,MariaDB) - https://github.com/kimjaewoo2233/JSP-Spring-todo-list<br>
-SpringBoot (JPA,MariaDB,security)  - https://github.com/kimjaewoo2233/springboot-board-litst<br>    
 
 
  </div>
