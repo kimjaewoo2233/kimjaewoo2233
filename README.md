@@ -19,14 +19,13 @@
 
 
  ## PROJECT
-   Html/css/js(간단 블로그) - https://github.com/kimjaewoo2233/ITblogFront<br>
     JSP(춘천관광) - https://github.com/kimjaewoo2233/Tourist_site<br>
     SpringBoot/JPA(JPQL)/JWT/SpringSecurity(영화퀴즈사이트) - [https://github.com/kimjaewoo2233/MOVIE-QUIZ-PROJECT](https://github.com/kimjaewoo2233/movie-web-project) 
     SpringBoot/JPA/SpringSecurity/JQuery(동물보호소) - https://github.com/kimjaewoo2233/companion-animal-tourism-info<br>
     SpringBoot/SpringSecurity/JPA/SpringBatchAWS (학습하며 만든 호텔예약프로젝트) https://github.com/kimjaewoo2233/STUDY-GROUP-ACTIVITY <br>
     SpringBoot/Security/JPA/AWS(패캠 교육 미니프로젝트)  https://github.com/kimjaewoo2233/BE_Mini<br>
- 
-   (진행중)SpringBoot/SpringSecurity(JWT, Session)/SpringBatch/SpringDataJPA(Querydsl) -https://github.com/kimjaewoo2233/USER-MANAGEMENT-REPO <br>
+   (진행중) SpringBoot/SpringDataJPA/QueryDSL/SpringSecurity/OAuth2//apachepoi/GitActions(CI/CD)/AWS(기업연계프로젝트) - https://github.com/Final-DAMDA/BE_DAMDA  <br>
+
     
     
 
