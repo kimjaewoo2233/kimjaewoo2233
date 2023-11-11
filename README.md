@@ -1,5 +1,5 @@
 
-<div align="center"><h3>:seedling:안녕하세요! 김재우입니다:seedling:</h3>
+<div align="center"><h3>🌐안녕하세요! 김재우입니다🌐</h3>
 
 
 ### 학습중
