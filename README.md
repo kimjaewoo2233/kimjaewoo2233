@@ -19,7 +19,7 @@ https://jaewoo2233.tistory.com/
   - _[2023.07 ~ 재직중]_
   - 주요 업무:
     - 유씨웨어 서비스 포탈(차세대) - React.js/Nest.js 풀스텍
-    - 일본 교육용 웹 프로젝트(차세대) - Next.js 풀스택
+    - 일본 교육용 웹 프로젝트(차세대) - Next.js/Moleculer 풀스택
     - 관리자페이지 유지보수 - JSP/Servlet
     - 웹뷰 - JSP/SpringBoot
 
@@ -30,7 +30,7 @@ https://jaewoo2233.tistory.com/
 
 ### 백엔드
 - **Languages:** [Java, TypeScript, SQL]
-- **Frameworks/Libraries:** [Nest.js, Spring Boot, Molecular]
+- **Frameworks/Libraries:** [Nest.js, Spring Boot, Moleculer]
 
 ## 📈 GitHub 통계
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimjaewoo2233&show_icons=true&count_private=true&theme=radical)
