@@ -5,7 +5,7 @@
 - **Tistory:** 
 https://jaewoo2233.tistory.com/
 
-운영중인 서비스
+- **운영중인 서비스: **
 AI 면접
 <a href="https://www.joonbee.co.kr">준비서비스</a>
 
