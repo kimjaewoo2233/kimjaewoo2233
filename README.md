@@ -45,14 +45,48 @@ AI 면접
 ## 💬 연락처
 - **이메일:** [ta3844@naver.com](mailto:ta3844@naver.com)
 
-## 🎨 기타 프로젝트
-SpringBoot/JPA(JPQL)/JWT/SpringSecurity(영화퀴즈사이트) - [https://github.com/kimjaewoo2233/MOVIE-QUIZ-PROJECT](https://github.com/kimjaewoo2233/movie-web-project) 
-SpringBoot/JPA/SpringSecurity/JQuery(동물보호소) - https://github.com/kimjaewoo2233/companion-animal-tourism-info<br>
-SpringBoot/SpringSecurity/JPA/SpringBatchAWS (학습하며 만든 호텔예약프로젝트) https://github.com/kimjaewoo2233/STUDY-GROUP-ACTIVITY <br>
-SpringBoot/Security/JPA/AWS(패캠 교육 미니프로젝트)  [https://github.com/kimjaewoo2233/BE_Mini](https://github.com/Kdt4-Miniproject/BE_Mini)<br>
-SpringBoot/SpringDataJPA/QueryDSL/SpringSecurity/OAuth2//apachepoi/GitActions(CI/CD)/AWS(기업연계프로젝트) - https://github.com/Final-DAMDA/BE_DAMDA  <br>
+## :pushpin: Projects
+### 1. 오이프로젝트
+ <a href="https://github.com/kimjaewoo2233/movie-web-project">자세히보기
+>영화 퀴즈사이트 (팀 프로젝트)
+>인원 FE(1) BE(1) Devops(1) Design(1)
+>역할 백엔드 개발 및 테이블 설계   
+>기술 스택:  
+>Java 11 / Spring MVC / Gradle / JPA / 
+>MariaDB
 
-AI면접 서비스 - Nginx/Nest.js(Monorepo) - https://github.com/joonbee-AIInterview/joonbee-api    
+---
+
+### 2. 연차 당직 관리 프로젝트
+ <a href="https://github.com/Kdt4-Miniproject/BE_Mini">자세히보기
+>휴가 및 당직 관리 프로젝트 (팀 프로젝트)
+>인원 FE(4) BE(4)
+>역할 백엔드 총괄   
+>기술 스택:  
+>Java 11 / Spring Boot / Gradle / JPA / Spring Security / MySQL / AWS EC2 
+
 --- 
+
+### 3. 담다 서비스 개발 
+ <a href="https://github.com/Final-DAMDA/BE_DAMDA">자세히보기
+>기업연계 프로젝트 담다 프로젝트 (팀 프로젝트)
+>인원 FE(4) BE(3) UI/UX(3) PM(3)
+>역할 백엔드 총괄   
+>기술 스택:  
+>Java 11 / Spring Boot / Gradle / JPA / Spring Security / MySQL / AWS EC2 / OAuth2 (KaKao)  
+
+--- 
+
+### 4. 준비 AI 면접 서비스 개발 
+현재 운영중 
+<a href="https://www.joonbee.co.kr">준비서비스</a>
+>개발자를 위한 AI 면접 서비스 (팀 프로젝트)
+>인원 FE(2) BE(2)
+>역할 백엔드 총괄   
+>기술 스택:  
+> Nginx / pm2 / Node.js(Nest.js) / Monorepo / MySQL / AWS EC2 / OAuth2 (KaKao, Google, Naver)  
+
+--- 
+
 
 감사합니다! 🥳
