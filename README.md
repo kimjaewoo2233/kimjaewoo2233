@@ -47,7 +47,8 @@ SpringBoot/JPA/SpringSecurity/JQuery(동물보호소) - https://github.com/kimja
 SpringBoot/SpringSecurity/JPA/SpringBatchAWS (학습하며 만든 호텔예약프로젝트) https://github.com/kimjaewoo2233/STUDY-GROUP-ACTIVITY <br>
 SpringBoot/Security/JPA/AWS(패캠 교육 미니프로젝트)  [https://github.com/kimjaewoo2233/BE_Mini](https://github.com/Kdt4-Miniproject/BE_Mini)<br>
 SpringBoot/SpringDataJPA/QueryDSL/SpringSecurity/OAuth2//apachepoi/GitActions(CI/CD)/AWS(기업연계프로젝트) - https://github.com/Final-DAMDA/BE_DAMDA  <br>
-Nginx/Nest.js(Monorepo) - https://github.com/joonbee-AIInterview/joonbee-api    
+
+AI면접 서비스 - Nginx/Nest.js(Monorepo) - https://github.com/joonbee-AIInterview/joonbee-api    
 --- 
 
 감사합니다! 🥳
