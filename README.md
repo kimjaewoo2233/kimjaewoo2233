@@ -47,10 +47,10 @@ AI 면접
 
 ## :pushpin: Projects
 ### 1. 오이프로젝트
- <a href="https://github.com/kimjaewoo2233/movie-web-project">자세히보기
->영화 퀴즈사이트 (팀 프로젝트)
->인원 FE(1) BE(1) Devops(1) Design(1)
->역할 백엔드 개발 및 테이블 설계   
+ <a href="https://github.com/kimjaewoo2233/movie-web-project">자세히보기 
+>영화 퀴즈사이트 (팀 프로젝트)<br/>
+>인원: FE(1) BE(1) Devops(1) Design(1) <br/>
+>나의 역할: 백엔드 개발 및 테이블 설계 <br/>
 >기술 스택:  
 >Java 11 / Spring MVC / Gradle / JPA / 
 >MariaDB
@@ -59,9 +59,9 @@ AI 면접
 
 ### 2. 연차 당직 관리 프로젝트
  <a href="https://github.com/Kdt4-Miniproject/BE_Mini">자세히보기
->휴가 및 당직 관리 프로젝트 (팀 프로젝트)
->인원 FE(4) BE(4)
->역할 백엔드 총괄   
+>휴가 및 당직 관리 프로젝트 (팀 프로젝트)<br/>
+>인원: FE(4) BE(4) <br/>
+>나의 역할: 백엔드 총괄 및 테이블설계 <br/>
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / JPA / Spring Security / MySQL / AWS EC2 
 
@@ -69,9 +69,9 @@ AI 면접
 
 ### 3. 담다 서비스 개발 
  <a href="https://github.com/Final-DAMDA/BE_DAMDA">자세히보기
->기업연계 프로젝트 담다 프로젝트 (팀 프로젝트)
->인원 FE(4) BE(3) UI/UX(3) PM(3)
->역할 백엔드 총괄   
+>기업연계 프로젝트 담다 프로젝트 (팀 프로젝트)<br/>
+>인원: FE(4) BE(3) UI/UX(3) PM(3)<br/>
+>나의 역할: 백엔드 총괄 및 테이블설계    <br/> 
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / JPA / Spring Security / MySQL / AWS EC2 / OAuth2 (KaKao)  
 
@@ -80,9 +80,9 @@ AI 면접
 ### 4. 준비 AI 면접 서비스 개발 
 현재 운영중 
 <a href="https://www.joonbee.co.kr">준비서비스</a>
->개발자를 위한 AI 면접 서비스 (팀 프로젝트)
->인원 FE(2) BE(2)
->역할 백엔드 총괄   
+>개발자를 위한 AI 면접 서비스 (팀 프로젝트)<br/>
+>인원: FE(2) BE(2)<br/>
+>나의 역할: 백엔드 총괄 및 테이블설계     <br/>
 >기술 스택:  
 > Nginx / pm2 / Node.js(Nest.js) / Monorepo / MySQL / AWS EC2 / OAuth2 (KaKao, Google, Naver)  
 
