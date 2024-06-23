@@ -5,6 +5,10 @@
 - **Tistory:** 
 https://jaewoo2233.tistory.com/
 
+운영중인 서비스
+AI 면접
+<a href="https://www.joonbee.co.kr">준비서비스</a>
+
 - 🌱 **현재 배우고 있는 것:**
   [![Nest.js](https://img.shields.io/badge/Nest.js-FF5733?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
   [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
