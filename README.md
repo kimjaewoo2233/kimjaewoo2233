@@ -10,12 +10,13 @@ AI 면접
 <a href="https://www.joonbee.co.kr">준비서비스</a>
 
 - 🌱 **현재 배우고 있는 것:**
-  [![Nest.js](https://img.shields.io/badge/Nest.js-FF5733?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![NginX](https://img.shields.io/badge/NginX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![MSA](https://img.shields.io/badge/MSA-Microservices%20Architecture-005571?style=for-the-badge)](https://en.wikipedia.org/wiki/Microservices)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+</div>
 - 💬 **문의:** 항상 질문을 환영합니다! 궁금한 것이 있다면 이메일을 통해 연락해 주세요.
 
 ## 🚀 경력 요약
