@@ -24,6 +24,7 @@ AI 면접
   - _[2023.07 ~ 재직중]_
   - 주요 업무:
     - 유씨웨어 서비스 포탈(차세대) - React.js/Nest.js 풀스텍
+    - 유씨웨어 서비스포탈 결제(정기결제) - React.js/Nest.js 풀스택
     - 일본 교육용 웹 프로젝트(차세대) - Next.js/Moleculer 풀스택
     - 관리자페이지 유지보수 - JSP/Servlet
     - 웹뷰 - JSP/SpringBoot
