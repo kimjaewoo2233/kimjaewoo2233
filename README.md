@@ -27,7 +27,7 @@ AI 면접
     - 유씨웨어 서비스포탈 결제(정기결제) - React.js/Nest.js 풀스택
     - 일본 교육용 웹 프로젝트(차세대) - Next.js/Moleculer 풀스택
     - 관리자페이지 유지보수 - JSP/Servlet
-    - 웹뷰 - JSP/SpringBoot
+    - 메신저 부가서비스 - JSP/SpringBoot
 
 ## 📊 기술 스택
 ### 프론트엔드
