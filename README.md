@@ -6,7 +6,7 @@
 https://jaewoo2233.tistory.com/
 
 - **운영중인 서비스:**
-AI 면접
+AI 면접 (서비스 종료)
 <a href="https://www.joonbee.co.kr">준비서비스</a>
 
 - 🌱 **현재 배우고 있는 것:**
@@ -97,7 +97,7 @@ AI 면접
 --- 
 
 ### 4. 준비 AI 면접 서비스 개발 
-현재 운영중 
+서비스종료 
 <a href="https://www.joonbee.co.kr">준비서비스</a>
 >개발자를 위한 AI 면접 서비스 (팀 프로젝트)<br/>
 >인원: FE(2) BE(2)<br/>
