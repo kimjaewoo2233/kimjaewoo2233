@@ -5,9 +5,13 @@
 - **Tistory:** 
 https://jaewoo2233.tistory.com/
 
-- **운영중인 서비스:**
+- **운영했었던 서비스:**
 AI 면접 (서비스 종료)
 <a href="https://www.joonbee.co.kr">준비서비스</a>
+
+- **운영중인 서비스**
+전통주 플랫폼
+<a href="https://www.juulabel.com">주라벨 바로가기</a>
 
 - 🌱 **현재 배우고 있는 것:**
 
