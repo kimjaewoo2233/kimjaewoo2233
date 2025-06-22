@@ -5,23 +5,40 @@
 - **Tistory:** 
 https://jaewoo2233.tistory.com/
 
-- **운영했었던 서비스:**
-AI 면접 (서비스 종료)
-<a href="https://www.joonbee.co.kr">준비서비스</a>
+<h2 align="center">✨ 프로젝트 운영 및 활동 현황 ✨</h2>
 
-- **운영중인 서비스**
-전통주 플랫폼
-<a href="https://www.juulabel.com">주라벨 바로가기</a>
 
-- 🌱 **현재 배우고 있는 것:**
+## 🚀 운영 중인 서비스
 
-<div style="display:flex;">
+### 🏮 전통주 플랫폼  
+[👉 주라벨 바로가기](https://www.juulabel.com)  
+전통주의 매력을 소개하고 구매할 수 있는 전통주 전문 플랫폼입니다.
+
+
+### 💪 건강 블로그  
+[👉 Fitmode 바로가기](https://www.fitmode.kr/blog)  
+일상 속 건강 루틴과 헬스/웰니스 콘텐츠를 제공하는 블로그입니다. <br/><br/><br/>
+
+##  🛑 종료된 서비스
+
+### 🤖 AI 면접 서비스 *(서비스 종료)*  
+[👉 준비서비스 바로가기](https://www.joonbee.co.kr)  
+AI 기반의 면접 서비스. 현재는 운영 종료되었습니다.
+
+
+<br/><br/><br/>
+
+## 🌱 현재 배우고 있는 기술 스택
+
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-</div>
-- 💬 **문의:** 항상 질문을 환영합니다! 궁금한 것이 있다면 이메일을 통해 연락해 주세요.
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
+
+
+<br/><br/><br/>
 
 ## 🚀 경력 요약
 - **[UCWARE]** - **[WEB 풀스택]**
