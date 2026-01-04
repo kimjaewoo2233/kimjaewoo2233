@@ -45,7 +45,7 @@ Languages
 ## 👨‍💻 Work Experience
 
 ### **Mnkl 뭉클**
-> **Product Engineer** | 2025.11 ~ 현재
+> **Product Engineer** | 2025.12 ~ 현재
 - **AI 피팅룸 개발**
   - AI 기반 가상 피팅 기능 설계 및 구현
   - 판매 상품을 가상으로 착용해볼 수 있는 사용자 경험 제공
@@ -55,7 +55,7 @@ Languages
   - 플랫폼 운영 효율화를 위한 내부 툴 개발
 
 ### **NEUROCORE**
-> **Full-stack Developer** | 2025.09 ~ 2025.11
+> **Full-stack Developer** | 2025.09 ~ 2025.12
 - **고객사 맞춤형 기능 개발 (Customization)**
   - 특정 고객 비즈니스 로직 기능 설계 및 구현
 
