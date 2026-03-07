@@ -35,10 +35,6 @@ Languages
 
 <div align="center">
 
-### 🚀 Now Operating
-[![Wellflo](https://img.shields.io/badge/Live_Service-Wellflo-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vvellflo.com)
-
-# [✨ Wellflo ✨](https://vvellflo.com)
 
 </div>
 
