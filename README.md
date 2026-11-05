@@ -4,19 +4,14 @@
 
 ## 기여 잔디
 
-![2026년 GitHub 기여 잔디](./assets/contributions-2026.svg)
-
-![2025년 GitHub 기여 잔디](./assets/contributions-2025.svg)
-
-![2024년 GitHub 기여 잔디](./assets/contributions-2024.svg)
-
-![2023년 GitHub 기여 잔디](./assets/contributions-2023.svg)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-2026-static.svg">
+  <img src="./assets/contributions-2026.svg" alt="김재우 이름과 2026년 GitHub 기여 잔디">
+</picture>
 
 공개 프로필의 2026.11.05 기준 스냅샷
 
 ## 프로젝트
-
-제목을 누르면 만든 기능과 관련 링크를 볼 수 있습니다.
 
 <details>
 <summary><strong>누잼</strong> · 손끝으로 잠깐 쉬는 감각 놀이 앱</summary>
@@ -27,29 +22,11 @@
 
 </details>
 
-<details>
-<summary><strong>챙겨가</strong> · 집을 나서기 전 준비물을 확인하는 iPhone 앱</summary>
-
-외출 목록을 앱과 홈·잠금 화면 위젯에서 확인할 수 있게 설계했습니다. 집을 벗어날 때 준비물 확인을 알리고, 목록과 위치 데이터는 기기 안에서 처리합니다.
-
-[포트폴리오에서 화면 보기](https://devpeon.ai.kr/about#services)
-
-</details>
-
-<details>
-<summary><strong>Devpeon</strong> · AI와 개발을 기록하는 기술 블로그</summary>
-
-오픈소스 코드와 원문 자료를 직접 읽고, 구현에서 얻은 판단 기준을 정리합니다. Next.js와 Markdown으로 글을 관리하고 정적 페이지로 제공하는 블로그를 직접 만들었습니다.
-
-[글 목록 보기](https://devpeon.ai.kr/#notes)
-
-</details>
-
 ## 경력
 
 - **MNKL · Product Engineer** — 커머스 UX와 운영 자동화
 - **NEUROCORE · Full-stack Developer** — 고객사 맞춤 기능
-- **UCWARE · Full-stack Developer** — 교육 서비스 개발·운영
+- **UCWARE · Full-stack Developer** — 교육 서비스 개발·운영 및 고객사 납품 솔루션 유지보수
 
 ## 기술
 
