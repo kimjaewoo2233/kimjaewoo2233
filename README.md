@@ -1,71 +1,60 @@
-👋 안녕하세요! 김재우입니다.
+# 김재우 · Dev.peon
 
-> **📬 Contact**
->
-> 📧 [ta3844@naver.com](mailto:ta3844@naver.com)
-> 
-<div align="center">
+웹과 모바일 제품을 만들고, 운영에서 발견한 문제를 다음 개선에 반영하는 풀스택 개발자입니다.
 
-"꾸준함의 힘을 믿으며, 가치 있는 서비스를 만듭니다."
+## 기여 잔디
 
-</div>
+![2026년 GitHub 기여 잔디](./assets/contributions-2026.svg)
 
-🚀 About Me
+![2025년 GitHub 기여 잔디](./assets/contributions-2025.svg)
 
-"서비스의 시작부터 끝까지, 주인의식을 가지고 몰입합니다."
+![2024년 GitHub 기여 잔디](./assets/contributions-2024.svg)
 
-저는 단순한 코드 작성을 넘어 사람들이 사용하는 서비스를 직접 만들어내는 과정 자체를 사랑하는 풀스택 개발자입니다. 기술은 비즈니스가 직면한 문제를 해결할 때 비로소 빛을 발한다고 믿으며, 개발자의 관점뿐만 아니라 창업가의 시선으로 프로덕트를 바라보려 노력합니다.
+![2023년 GitHub 기여 잔디](./assets/contributions-2023.svg)
 
-저를 설명하는 가장 강력한 키워드는 <strong>'꾸준함'</strong>입니다. 화려한 기술 도입보다, 매일의 학습과 기록을 통해 어제보다 더 단단한 코드를 쌓아 올리는 것을 중요하게 생각합니다. 현재는 React와 Nest.js를 주력으로 사용하여 안정적이고 확장 가능한 웹 서비스를 구축하고 있으며, 끊임없이 변화하는 기술 트렌드 속에서도 중심을 잃지 않고 비즈니스 가치를 창출하는 데 집중하고 있습니다.
+공개 프로필의 2026.11.05 기준 스냅샷
 
-🛠 Tech Stack
+## 프로젝트
 
-Languages
+제목을 누르면 만든 기능과 관련 링크를 볼 수 있습니다.
 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<details>
+<summary><strong>누잼</strong> · 손끝으로 잠깐 쉬는 감각 놀이 앱</summary>
 
-<br>
+왁뿌볼을 누르거나 키보드 키링을 두드리며, 목표 없이 잠깐 손을 움직일 수 있는 모바일 앱입니다. 기획부터 디자인, 개발, 운영까지 맡았습니다.
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[서비스 보기](https://www.nuzam.kr/) · [App Store에서 보기](https://apps.apple.com/kr/app/id6797218260)
 
-<br>
+</details>
 
-<div align="center">
+<details>
+<summary><strong>챙겨가</strong> · 집을 나서기 전 준비물을 확인하는 iPhone 앱</summary>
 
+외출 목록을 앱과 홈·잠금 화면 위젯에서 확인할 수 있게 설계했습니다. 집을 벗어날 때 준비물 확인을 알리고, 목록과 위치 데이터는 기기 안에서 처리합니다.
 
-</div>
+[포트폴리오에서 화면 보기](https://devpeon.ai.kr/about#services)
 
-## 👨‍💻 Work Experience
+</details>
 
-### **Mnkl 뭉클**
-> **Product Engineer** | 2025.12 ~ 현재
-- **AI 피팅룸 개발**
-  - AI 기반 가상 피팅 기능 설계 및 구현
-  - 판매 상품을 가상으로 착용해볼 수 있는 사용자 경험 제공
-- **운영 자동화 및 어드민 시스템 개발**
-  - 중고 위탁판매 수령액 측정 자동화
-  - 검수 단계 최적화를 위한 어드민 커스터마이징
-  - 플랫폼 운영 효율화를 위한 내부 툴 개발
-- **셀러센터 카카오 소셜 로그인 연동**
-  - 기존 이메일/패스워드 계정과 카카오 계정 연동 기능 개발로 셀러 로그인 편의성 개선
-- **판매 신청 시스템 UI/UX 개선**
-  - 단일 이미지 업로드 방식을 항목별 슬롯 UI로 개편해 사용자가 필요한 이미지를 직관적으로 인지할 수 있도록 개선
-  - 미흡한 이미지 제출 시 카카오 알림톡으로 추가 수급 자동화하여 운영 CS 80% 이상 감소
+<details>
+<summary><strong>Devpeon</strong> · AI와 개발을 기록하는 기술 블로그</summary>
 
-### **NEUROCORE**
-> **Full-stack Developer** | 2025.09 ~ 2025.12
-- **고객사 맞춤형 기능 개발 (Customization)**
-  - 특정 고객 비즈니스 로직 기능 설계 및 구현
+오픈소스 코드와 원문 자료를 직접 읽고, 구현에서 얻은 판단 기준을 정리합니다. Next.js와 Markdown으로 글을 관리하고 정적 페이지로 제공하는 블로그를 직접 만들었습니다.
 
-### **UCWARE**
-> **Full-stack Developer** | 2023.07 ~ 2025.09
-- **교육용 서비스 End-to-End 개발**
-  - 초기 아키텍처 설계 및 시스템 구축
-  - 구성 및 실 서비스 운영 대응
-- **교육용 서비스 관리자 페이지 개발**
-- **웹뷰(WebView) 기반 대시보드 구현**
-  - 모바일 환경에 최적화된 데이터 시각화 및 앱 연동 인터페이스 개발
-- **레거시 시스템 마이그레이션 및 유지보수**
+[글 목록 보기](https://devpeon.ai.kr/#notes)
+
+</details>
+
+## 경력
+
+- **MNKL · Product Engineer** — 커머스 UX와 운영 자동화
+- **NEUROCORE · Full-stack Developer** — 고객사 맞춤 기능
+- **UCWARE · Full-stack Developer** — 교육 서비스 개발·운영
+
+## 기술
+
+- **웹 프론트엔드** · React, Next.js
+- **백엔드** · Node.js, NestJS, Java, Spring, JSP
+- **모바일** · React Native
+
+[ta3844@naver.com](mailto:ta3844@naver.com)
