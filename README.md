@@ -1,24 +1,32 @@
 # 김재우 · Dev.peon
 
-웹과 모바일 제품을 만들고, 운영에서 발견한 문제를 다음 개선에 반영하는 풀스택 개발자입니다.
-
-## 기여 잔디
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-2026-static.svg">
-  <img src="./assets/contributions-2026.svg" alt="김재우 이름과 2026년 GitHub 기여 잔디">
-</picture>
-
-공개 프로필의 2026.11.05 기준 스냅샷
+웹과 모바일 제품을 만들고 운영하는 풀스택 개발자입니다. 커머스와 교육 서비스에서 사용자 화면과 운영 도구를 개발했습니다.
 
 ## 프로젝트
 
+### 누잼
+
+왁뿌볼을 누르거나 키보드 키링을 두드리며 잠깐 쉴 수 있는 감각 놀이 앱입니다.
+
+**담당** · 기획, 디자인, 개발, 운영
+
+[누잼 소개](https://www.nuzam.kr/) · [App Store](https://apps.apple.com/kr/app/id6797218260)
+
 <details>
-<summary><strong>누잼</strong> · 손끝으로 잠깐 쉬는 감각 놀이 앱</summary>
+<summary>왁뿌볼 화면 보기</summary>
 
-왁뿌볼을 누르거나 키보드 키링을 두드리며, 목표 없이 잠깐 손을 움직일 수 있는 모바일 앱입니다. 기획부터 디자인, 개발, 운영까지 맡았습니다.
+화면 속 왁뿌볼을 손끝으로 누르고 문지르며 가지고 놀 수 있습니다.
 
-[서비스 보기](https://www.nuzam.kr/) · [App Store에서 보기](https://apps.apple.com/kr/app/id6797218260)
+<img src="./assets/nuzam-ball.webp" alt="누잼에서 무지개색 왁뿌볼을 누르는 앱 화면" width="260">
+
+</details>
+
+<details>
+<summary>키보드 키링과 꾸미기 화면 보기</summary>
+
+키캡을 두드리고, 키링과 왁뿌볼의 색상이나 모양을 취향에 맞게 바꿀 수 있습니다.
+
+<img src="./assets/nuzam-keyring.webp" alt="누잼에서 키보드 키링과 왁뿌볼의 색과 모양을 고르는 설정 화면" width="260">
 
 </details>
 
